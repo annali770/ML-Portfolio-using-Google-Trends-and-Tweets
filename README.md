@@ -23,3 +23,5 @@ We attempted to form an optimal MV portfolio using Google Trends search volumes 
  3. Incorporate predicted covariances into portfolio formation
  4. Find a better way to replace NA values (we forward filled)
  5. Create more informative visualizations
+ 
+ Please contact hlian@andrew.cmu.edu if you have any questions.
