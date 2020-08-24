@@ -7,6 +7,7 @@ We attempted to form an optimal MV portfolio using Google Trends search volumes 
 3. Conduct ENET regression using this data and to predict returns, risks, and covariances of 5 ETFs
 4. Form portfolio using four strategies
   a. GMV
+  \n
   b. Equal-weight
   c. Risk-parity
   d. Max Sharpe ratio
