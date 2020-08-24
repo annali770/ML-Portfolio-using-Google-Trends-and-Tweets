@@ -1,4 +1,4 @@
-# MLaF
+# Machine Learning Applied to Finance
 Project Description:
 
 We attempted to form an optimal MV portfolio using Google Trends search volumes and Twitter Sentiment. The pipeline is as follows:
